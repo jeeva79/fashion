@@ -2,7 +2,7 @@
 
 Welcome to the Fashion Project! This project aims to provide insights and tools for fashion enthusiasts, designers, and businesses to enhance their understanding of fashion trends, styles, and industry dynamics.
 
-![gym](https://github.com/jeeva79/fashion/assets/125794481/010fd1d4-fe79-425e-a82a-e1bd413bf43c)
+![fas](https://github.com/jeeva79/fashion/assets/125794481/898ed7c3-713b-4151-b875-cc5de9374258)
 
 
 ## Table of Contents
